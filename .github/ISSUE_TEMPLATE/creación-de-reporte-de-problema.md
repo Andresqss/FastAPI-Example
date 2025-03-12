@@ -3,7 +3,7 @@ name: Creación de reporte de Problema
 about: Crea un reporte para ayudar a la mejora del proyecto
 title: "[TIPO_REPORTE] [FEATURE] Titulo"
 labels: ''
-assignees: ''
+assignees: Andresqss
 
 ---
 
